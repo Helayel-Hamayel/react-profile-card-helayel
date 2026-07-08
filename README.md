@@ -8,7 +8,7 @@ A responsive, grid-based team directory application built using functional React
 
 Below is the visual evidence of the completed responsive grid and its hover animations as required by the handoff checklist:
 
-![Project Preview Layout](./src/assets/preview.gif)
+![Project Preview Layout](./react-profile-card-Helayel/src/assets/preview.gif)
 
 ---
 
