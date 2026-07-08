@@ -8,9 +8,7 @@ A responsive, grid-based team directory application built using functional React
 
 Below is the visual evidence of the completed responsive grid and its hover animations as required by the handoff checklist:
 
-![Project Preview Layout](./preview.png)
-
-*(Note: If submitting a short GIF to demonstrate the hover animations instead, ensure the file is named `preview.gif` and update the link above accordingly).*
+![Project Preview Layout](./src/assets/preview.gif)
 
 ---
 
@@ -46,3 +44,4 @@ Follow these steps to configure, install dependencies, and launch the local envi
 2. Open your terminal window and navigate directly into the root folder directory:
    ```bash
    cd react-profile-card-Helayel
+   npm run dev

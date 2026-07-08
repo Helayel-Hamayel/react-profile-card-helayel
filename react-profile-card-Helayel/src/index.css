@@ -28,7 +28,6 @@ body {
   margin-bottom: 3rem;
 }
 
-/* R-6: Neat Grid Styling */
 .profile-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -36,7 +35,6 @@ body {
   justify-content: center;
 }
 
-/* R-6: Card Layout with subtle borders */
 .profile-card {
   background-color: var(--card-bg);
   border: 1px solid var(--border-color);
@@ -44,10 +42,9 @@ body {
   padding: 1.5rem;
   text-align: center;
   box-shadow: var(--shadow-sm);
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* smooth stretch goal interaction */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
 
-/* Stretch Goal 1: Elevation interaction on hover */
 .profile-card:hover {
   transform: translateY(-5px);
   box-shadow: var(--shadow-md);
@@ -58,7 +55,7 @@ body {
   display: inline-block;
 }
 
-/* R-6 & Stretch Goal 1: Rounded avatar image with smooth expansion logic */
+
 .profile-avatar {
   width: 100px;
   height: 100px;

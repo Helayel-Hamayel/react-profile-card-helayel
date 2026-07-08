@@ -16,8 +16,8 @@ export const profiles = [
   {
     id: 3,
     avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
-    fullName: "Sam Wilson",
+    fullName: "Elyah Wilson",
     jobTitle: "DevOps Engineer",
-    bio: "" // Leave one empty to test your conditional rendering stretch goal!
+    bio: "Specializes in automating infrastructure, optimizing cloud deployments, and keeping production environments running smoothly around the clock." 
   }
 ];
